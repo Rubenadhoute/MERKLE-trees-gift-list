@@ -10,11 +10,13 @@ There is a need to be careful how much data we are storing on the blockchain wit
  
 ### Key Learnings
 
+Merkle Trees
+
 Merkle Trees in Blockchains
 
 Ethereum tries
 
-Ethereum Cryptography library 
+
 
 
 ### Step to reproduce
